@@ -14,7 +14,7 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ Photoshop / Illustrator <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahrafi1234&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahrafi1234)]
 
 ## ☕ Connect with me!
