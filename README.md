@@ -1,6 +1,8 @@
+![A passionate Web Developer from Bangladesh](https://media.licdn.com/dms/image/D4E16AQGUTxw31bcE0Q/profile-displaybackgroundimage-shrink_350_1400/0/1714733630652?e=1725494400&v=beta&t=DH3lE94dPKfw9_HVfMR0HVPDnQHj4QEwqMPaE2rJ4TM)
+
 ### Hi there 👋, I'm Abdullah Al Rafi Bhuiyan
 #### A passionate Web Developer from Bangladesh
-![A passionate Web Developer from Bangladesh](https://media.licdn.com/dms/image/D4E16AQGUTxw31bcE0Q/profile-displaybackgroundimage-shrink_350_1400/0/1714733630652?e=1725494400&v=beta&t=DH3lE94dPKfw9_HVfMR0HVPDnQHj4QEwqMPaE2rJ4TM)
+
 
 I'm a passionate Frontend React Developer with a specialized focus on the MERN stack. 💻 Experienced in crafting elegant, responsive user interfaces and dynamic web applications using cutting-edge technologies.
 
