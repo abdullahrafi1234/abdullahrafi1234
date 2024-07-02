@@ -2,11 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah Al +Rafi Bhuiyan!;" />
 </h1>
 
-#### A passionate Web Developer from Bangladesh
-
 ![A passionate Web Developer from Bangladesh](https://media.licdn.com/dms/image/D4E16AQGUTxw31bcE0Q/profile-displaybackgroundimage-shrink_350_1400/0/1714733630652?e=1725494400&v=beta&t=DH3lE94dPKfw9_HVfMR0HVPDnQHj4QEwqMPaE2rJ4TM)
 
-
+### =Hi There!👋; I'm Abdullah Al Rafi Bhuiyan!
+#### A passionate Web Developer from Bangladesh
 
 ## 🚀 About Me
 I'm a passionate Frontend React Developer with a specialized focus on the MERN stack. 💻 Experienced in crafting elegant, responsive user interfaces and dynamic web applications using cutting-edge technologies.
@@ -26,9 +25,9 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-  
+  <br><br>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahrafi1234&show_icons=true)  
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahrafi1234&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdullahrafi1234)  
 
