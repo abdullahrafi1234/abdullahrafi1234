@@ -1,7 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah Al +Rafi Bhuiyan!;" />
 </h1>
+
 #### A passionate Web Developer from Bangladesh
+
 ![A passionate Web Developer from Bangladesh](https://media.licdn.com/dms/image/D4E16AQGUTxw31bcE0Q/profile-displaybackgroundimage-shrink_350_1400/0/1714733630652?e=1725494400&v=beta&t=DH3lE94dPKfw9_HVfMR0HVPDnQHj4QEwqMPaE2rJ4TM)
 
 
