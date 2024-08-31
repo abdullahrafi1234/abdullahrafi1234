@@ -33,6 +33,12 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
 [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/abdullahal.rafibhuiyan)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://github.com/abdullahrafi1234) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullah-al-rafi-bhuiyan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rafi-react-portfolio.netlify.app/)
 <br>
 
+## :eyes: Current overview
+
+<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+</div>
+
 - 🌱 I’m currently learning TypeScript 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Developement 
