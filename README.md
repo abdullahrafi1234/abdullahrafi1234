@@ -33,6 +33,7 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
   <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+  <img src="https://www.figma.com/"/>
 </p>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
