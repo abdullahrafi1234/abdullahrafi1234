@@ -1,5 +1,5 @@
+![A passionate Web Developer from Bangladesh](https://github.com/abdullahrafi1234/abdullahrafi1234/blob/main/rafi%20bg.jpeg?raw=true)
 
-https://github.com/abdullahrafi1234/abdullahrafi1234/blob/main/rafi%20bg.jpeg?raw=true
 
 ### Hi There!👋; I'm Abdullah Al Rafi Bhuiyan!
 #### A passionate Web Developer from Bangladesh
