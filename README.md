@@ -1,4 +1,4 @@
-![A passionate Web Developer from Bangladesh](https://www.linkedin.com/in/abdullah-al-rafi-bhuiyan/overlay/background-image/)
+
 https://github.com/abdullahrafi1234/abdullahrafi1234/blob/main/rafi%20bg.jpeg?raw=true
 
 ### Hi There!👋; I'm Abdullah Al Rafi Bhuiyan!
