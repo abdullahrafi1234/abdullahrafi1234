@@ -1,4 +1,4 @@
-![A passionate Web Developer from Bangladesh](https://media.licdn.com/dms/image/D4E16AQGUTxw31bcE0Q/profile-displaybackgroundimage-shrink_350_1400/0/1714733630652?e=1725494400&v=beta&t=DH3lE94dPKfw9_HVfMR0HVPDnQHj4QEwqMPaE2rJ4TM)
+![A passionate Web Developer from Bangladesh](https://www.linkedin.com/in/abdullah-al-rafi-bhuiyan/overlay/background-image/)
 
 ### Hi There!👋; I'm Abdullah Al Rafi Bhuiyan!
 #### A passionate Web Developer from Bangladesh
