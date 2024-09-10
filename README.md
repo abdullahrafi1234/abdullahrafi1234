@@ -1,8 +1,8 @@
 ![A passionate Web Developer from Bangladesh](https://github.com/abdullahrafi1234/abdullahrafi1234/blob/main/rafi%20bg.jpeg?raw=true)
 
 
-### Hi There!👋; I'm Abdullah Al Rafi Bhuiyan!
-#### A passionate Web Developer from Bangladesh
+<!-- ### Hi There!👋; I'm Abdullah Al Rafi Bhuiyan!
+#### A passionate Web Developer from Bangladesh -->
 <h1 align="center">
 <!-- markdownlint-disable MD045 -->
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!👋;I'm+Adullah+Al+Rafi+Bhuiyan!;+Front-End+Developer;+ReactJS+Developer;+MERN-Stack+Developer;+Full-Stack+Developer" />
