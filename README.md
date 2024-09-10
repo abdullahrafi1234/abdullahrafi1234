@@ -3,6 +3,10 @@
 
 ### Hi There!👋; I'm Abdullah Al Rafi Bhuiyan!
 #### A passionate Web Developer from Bangladesh
+<h1 align="center">
+<!-- markdownlint-disable MD045 -->
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=I'm+Adullah+Al+Rafi+Bhuiyan!;+Front-End+Developer;+ReactJS+Developer;+MERN-Stack+Developer;+Full-Stack+Developer" />
+</h1>
 
 ## 🚀 About Me
 I'm a passionate Frontend React Developer with a specialized focus on the MERN stack. 💻 Experienced in crafting elegant, responsive user interfaces and dynamic web applications using cutting-edge technologies.
