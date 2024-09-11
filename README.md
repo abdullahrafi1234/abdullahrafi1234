@@ -43,7 +43,7 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
 
 ## :eyes: Current overview
 
-<div align="left">
+<div align="right">
   <a href="https://app.daily.dev/rafi1234"><img align='right' src="https://api.daily.dev/devcards/v2/h8cgN7bMSLttUjcQyaLY8.png?type=default&r=r7s" width="200" alt="Abdullah Al Rafi Bhuiyan's Dev Card"/></a>
 </div>
 
