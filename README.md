@@ -34,11 +34,9 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
 
   <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahrafi1234
-&theme=dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahrafi1234&theme=dark" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahrafi1234
-&theme=dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahrafi1234&theme=dark" />
 
 </div>
 
