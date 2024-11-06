@@ -12,8 +12,8 @@
 ## 🚀 About Me
 I'm a passionate Frontend React Developer with a specialized focus on the MERN stack. 💻 Experienced in crafting elegant, responsive user interfaces and dynamic web applications using cutting-edge technologies.
 <br>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahrafi1234&layout=compact) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahrafi1234&layout=compact)
 <br>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahrafi1234&show_icons=true&locale=en&layout=compact" alt="abdullahrafi1234" /></p>
 
