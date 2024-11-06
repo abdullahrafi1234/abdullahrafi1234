@@ -15,6 +15,7 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahrafi1234&layout=compact)
 <br>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siam02&show_icons=true&locale=en&layout=compact" alt="siam02" /></p>
 
 ## 👨‍💻 Skills & Experiance: 
 <p align="left">
@@ -30,13 +31,6 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   
   </p>
-
-
-  <div align="center">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahrafi1234" />
-
-</div>
 
   <br><br>
 
