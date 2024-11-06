@@ -15,12 +15,9 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahrafi1234&layout=compact) -->
 
 <br>
-<div>
-    
+<div>    
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahrafi1234&show_icons=true&locale=en&layout=compact" alt="abdullahrafi1234" /></p>
 </div>
-<br>
-<br>
 
 ## 👨‍💻 Skills & Experiance: 
 <p align="left">
