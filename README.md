@@ -31,6 +31,15 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
   
   </p>
 
+
+  <div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tushar-454&theme=dark" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushar-454&theme=dark" />
+
+</div>
+
   <br><br>
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahrafi1234&show_icons=true)  
