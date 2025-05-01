@@ -33,10 +33,8 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>  
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
     <a href="(https://fortran-lang.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" alt="fortran" width="50" height="50"/> </a>
-    <a href="(https://fortran-lang.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mathematica/mathematica-original.svg" alt="fortran" width="50" height="50"/> </a>
     <a href="(https://fortran-lang.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="fortran" width="50" height="50"/> </a>
-  <img src="https://skillicons.dev/icons?i=wolfram-mathematica" />
-  
+
   </p>
 
   <br><br>
