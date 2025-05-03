@@ -43,20 +43,6 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdullahrafi1234)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahrafi1234&show_icons=true&locale=en&layout=compact" alt="abdullahrafi1234"/>
-</p>
-<p align="center">
-  <a href="https://github.com/abdullahrafi1234" align="left">
-    <img height="180" width="400" src="https://github-readme-stats-blue-nu-75.vercel.app/api?username=abdullahrafi1234" alt="md-nasim-mondal"/>
-  </a> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-zeta-ebon-65.vercel.app?user=abdullahrafi1234&hide_border=false&card_width=420&card_height=178" alt="GitHub Streak" /></a>
-<!--   <a href="https://github.com/md-nasim-mondal" align="left">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=md-nasim-mondal&show_icons=true&locale=en" alt="md-nasim-mondal"/>
-  </a> -->
-<!--   <a href="https://github.com/md-nasim-mondal" align="right">
-    <img height="180em" width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=md-nasim-mondal&" alt="md-nasim-mondal"/>
-  </a> -->
-</p>
 
   ## ☕ Connect with me!
 [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/abdullahal.rafibhuiyan)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://github.com/abdullahrafi1234) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullah-al-rafi-bhuiyan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rafi-react-portfolio.netlify.app/)
