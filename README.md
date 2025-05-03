@@ -34,10 +34,9 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
     <a href="(https://fortran-lang.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" alt="fortran" width="50" height="50"/> </a>
     <a href="(https://fortran-lang.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="fortran" width="50" height="50"/> </a>
-
   </p>
 
-  <br><br>
+  <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahrafi1234&show_icons=true)  
 
