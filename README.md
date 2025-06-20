@@ -40,6 +40,7 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
   <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahrafi1234&show_icons=true)  
+  <br>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdullahrafi1234)
 
