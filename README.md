@@ -55,9 +55,9 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
   <a href="https://app.daily.dev/rafi1234"><img align='right' src="https://api.daily.dev/devcards/v2/h8cgN7bMSLttUjcQyaLY8.png?type=default&r=r7s" width="200" alt="Abdullah Al Rafi Bhuiyan's Dev Card"/></a>
 </div>
 
-### 🌱 I’m currently learning TypeScript 
-### 👯 I’m looking to collaborate on Github 
-### 💬 Ask me about Web Developement 
+### 🌱 I’m currently learning TypeScript. 
+### 👯 I’m looking to collaborate on Github. 
+### 💬 Ask me about Web Developement.
 
 <br />
 
