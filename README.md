@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!👋;+I'm+Adullah+Al+Rafi+Bhuiyan!;+Front-End+Developer;+Full-Stack+Developer" />
 </h1>
 
-<!-- ### Hi There!👋; I'm Abdullah Al Rafi Bhuiyan!
+<!-- ### Hi There!👋 I'm Abdullah Al Rafi Bhuiyan!
 #### A passionate Web Developer from Bangladesh -->
 
 ## 🚀 About Me
@@ -55,9 +55,9 @@ I'm a passionate Frontend React Developer with a specialized focus on the MERN s
   <a href="https://app.daily.dev/rafi1234"><img align='right' src="https://api.daily.dev/devcards/v2/h8cgN7bMSLttUjcQyaLY8.png?type=default&r=r7s" width="200" alt="Abdullah Al Rafi Bhuiyan's Dev Card"/></a>
 </div>
 
-### 🌱 I’m currently learning TypeScript. 
-### 👯 I’m looking to collaborate on Github. 
-### 💬 Ask me about Web Developement.
+### 🌱 I’m currently learning Node.js. 
+### 👯 I’m looking to collaborate on GitHub. 
+### 💬 Ask me about Web Development.
 
 <br />
 
