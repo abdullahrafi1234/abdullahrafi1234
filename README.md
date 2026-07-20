@@ -13,6 +13,7 @@ I enjoy solving real-world problems by building scalable, user-focused applicati
 <!-- <div>    
 <p align="left"><img align="" src="https://github-readme-stats-eight-rho-24.vercel.app/api/top-langs?username=abdullahrafi1234&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="abdullahrafi1234" /></p>
 </div> -->
+<br>
 
 ## 🌎 Socials & Contact
 
@@ -59,7 +60,7 @@ I enjoy solving real-world problems by building scalable, user-focused applicati
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
 [![TanStack Query](https://img.shields.io/badge/TanStack-Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)](https://tanstack.com/query/latest)
-
+<br>
 
 ## 📊 GitHub Stats
 
