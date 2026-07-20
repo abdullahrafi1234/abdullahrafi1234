@@ -13,7 +13,7 @@ I enjoy solving real-world problems by building scalable, user-focused applicati
 <br>
 
 <!-- <div>    
-<p align="left"><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahrafi1234&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="abdullahrafi1234" /></p>
+<p align="left"><img align="" src="https://github-readme-stats-eight-rho-24.vercel.app/api/top-langs?username=abdullahrafi1234&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="abdullahrafi1234" /></p>
 </div> -->
 
 ## 🌎 Socials & Contact
@@ -66,7 +66,7 @@ I enjoy solving real-world problems by building scalable, user-focused applicati
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahrafi1234&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+![GitHub stats](https://github-readme-stats-eight-rho-24.vercel.app/api?username=abdullahrafi1234&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 
 <br>
 
