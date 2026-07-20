@@ -82,8 +82,11 @@ I enjoy solving real-world problems by building scalable, user-focused applicati
   <a href="https://app.daily.dev/rafi1234"><img align='right' src="https://api.daily.dev/devcards/v2/h8cgN7bMSLttUjcQyaLY8.png?type=default&r=r7s" width="200" alt="Abdullah Al Rafi Bhuiyan's Dev Card"/></a>
 </div>
 
-### 🌱 I'm currently learning Next.js.
-### 👯 I'm looking to collaborate on GitHub projects.
-### 💬 Ask me about Web Development.
+### 🔭 I'm currently building full-stack apps with Next.js, Node.js & PostgreSQL.
+### 🌱 I'm currently learning advanced PostgreSQL & Prisma ORM.
+### 👯 I'm looking to collaborate on open-source & full-stack MERN/PERN projects.
+### 🎯 I'm currently seeking an entry-level Software Engineer / Full-Stack Developer role.
+### 💬 Ask me about React, Node.js, Express.js & REST API design.
+### 📫 Reach me at rafibhuiyan1234@gmail.com or LinkedIn.
 
 <br />
