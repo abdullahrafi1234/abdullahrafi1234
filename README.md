@@ -70,48 +70,9 @@ I enjoy solving real-world problems by building scalable, user-focused applicati
 
 <br>
 
-## 📊 Additional Stats
-<div align="center">
-    <!-- First Row -->
-    <table>
-        <tr>
-            <td align="center" width="50%">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahrafi1234&theme=transparent" alt="GitHub Stats">
-            </td>
-            <td align="center" width="50%">
-                <img src="https://github-readme-stats.vercel.app/api?username=abdullahrafi1234&show_icons=true&theme=transparent&include_all_commits=false&number_format=long&border_color=00000000" alt="GitHub Stats">
-            </td>
-        </tr>
-        <!-- Second Row -->
-        <!-- <tr>
-            <td align="center" width="50%">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahrafi1234&theme=transparent&utcOffset=6" alt="Commit Times">
-            </td>
-            <td align="center" width="50%">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahrafi1234&show_icons=true&theme=transparent&layout=compact&border_color=00000000" alt="Top Languages">
-            </td>
-        </tr> -->
-        <!-- Third Row -->
-        <tr>
-            <td align="center" width="50%">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahrafi1234&theme=transparent" alt="Top Languages by Repo">
-            </td>
-            <td align="center" width="50%">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahrafi1234&theme=transparent" alt="Top Languages by Commit">
-            </td>
-        </tr>
-    </table>
-</div>
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdullahrafi1234&hide_border=true&theme=tokyonight)
 
 <br>
-
-## ☕ Connect with me!
-
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/abdullahal.rafibhuiyan) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://github.com/abdullahrafi1234) [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdullah-al-rafi-bhuiyan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rafi-react-portfolio.netlify.app/)
-
-<br><br>
 
 ## 👀 Current Overview
 
@@ -119,7 +80,7 @@ I enjoy solving real-world problems by building scalable, user-focused applicati
   <a href="https://app.daily.dev/rafi1234"><img align='right' src="https://api.daily.dev/devcards/v2/h8cgN7bMSLttUjcQyaLY8.png?type=default&r=r7s" width="200" alt="Abdullah Al Rafi Bhuiyan's Dev Card"/></a>
 </div>
 
-### 🌱 I'm currently learning Node.js.
+### 🌱 I'm currently learning Next.js.
 ### 👯 I'm looking to collaborate on GitHub projects.
 ### 💬 Ask me about Web Development.
 
