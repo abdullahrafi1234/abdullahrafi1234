@@ -10,8 +10,6 @@ I'm a Full-Stack Web Developer with hands-on experience building modern web appl
 
 I enjoy solving real-world problems by building scalable, user-focused applications with clean and maintainable code. Currently, I'm seeking an entry-level Software Engineer or Full-Stack Developer opportunity where I can learn, contribute, and grow as a developer.
 
-<br>
-
 <!-- <div>    
 <p align="left"><img align="" src="https://github-readme-stats-eight-rho-24.vercel.app/api/top-langs?username=abdullahrafi1234&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="abdullahrafi1234" /></p>
 </div> -->
@@ -62,7 +60,6 @@ I enjoy solving real-world problems by building scalable, user-focused applicati
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
 [![TanStack Query](https://img.shields.io/badge/TanStack-Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)](https://tanstack.com/query/latest)
 
-<br>
 
 ## 📊 GitHub Stats
 
@@ -72,14 +69,9 @@ I enjoy solving real-world problems by building scalable, user-focused applicati
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdullahrafi1234&hide_border=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-eight-rho-24.vercel.app/api/top-langs?username=abdullahrafi1234&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight)
+<!-- ![Top Languages](https://github-readme-stats-eight-rho-24.vercel.app/api/top-langs?username=abdullahrafi1234&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight) -->
 
 <br>
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats-eight-rho-24.vercel.app/api?username=abdullahrafi1234&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" />
-  <img align="right" src="https://github-readme-stats-eight-rho-24.vercel.app/api/top-langs?username=abdullahrafi1234&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" width="48%" alt="Top Languages" />
-</p>
 
 ## 👀 Current Overview
 
