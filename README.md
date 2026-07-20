@@ -76,6 +76,11 @@ I enjoy solving real-world problems by building scalable, user-focused applicati
 
 <br>
 
+<p align="left">
+  <img align="left" src="https://github-readme-stats-eight-rho-24.vercel.app/api?username=abdullahrafi1234&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" />
+  <img align="right" src="https://github-readme-stats-eight-rho-24.vercel.app/api/top-langs?username=abdullahrafi1234&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" width="48%" alt="Top Languages" />
+</p>
+
 ## 👀 Current Overview
 
 <div align="right">
