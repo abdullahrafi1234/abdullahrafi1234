@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <!-- markdownlint-disable MD045 -->
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!%F0%9F%91%8B;I'm+Abdullah+Al+Rafi+Bhuiyan!;Full-Stack+Developer;MERN+Stack+Enthusiast" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!%F0%9F%91%8B;I'm+Abdullah+Al+Rafi+Bhuiyan!;Full-Stack+Developer;MERN+Stack+Developer;PERN+Stack+Developer" />
 </h1>
 
 ## 🚀 About Me
