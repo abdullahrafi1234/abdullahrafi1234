@@ -6,21 +6,23 @@
 </h1>
 
 ## 🚀 About Me
-I'm a passionate Full Stack Developer 💻 specialized in the MERN stack, focused on building elegant, responsive user interfaces and dynamic web applications using modern technologies.
+I'm a Full-Stack Web Developer with hands-on experience building modern web applications using React.js, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, Prisma ORM, and MongoDB.
+
+I enjoy solving real-world problems by building scalable, user-focused applications with clean and maintainable code. Currently, I'm seeking an entry-level Software Engineer or Full-Stack Developer opportunity where I can learn, contribute, and grow as a developer.
 
 <br>
 
-<div>    
+<!-- <div>    
 <p align="left"><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahrafi1234&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="abdullahrafi1234" /></p>
-</div>
+</div> -->
 
 ## 🌎 Socials & Contact
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abdullahal.rafibhuiyan)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abdullahal.rafibhuiyan/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5.svg?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/abdullah-al-rafi-bhuiyan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafibhuiyan1234@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801722438145)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://rafi-react-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://abdullah-al-rafi-bhuiyan-portfolio.vercel.app/)
 
 ## 🛠️ Skill Set
 
