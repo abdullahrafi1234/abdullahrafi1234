@@ -83,7 +83,7 @@ I enjoy solving real-world problems by building scalable, user-focused applicati
 ### 🔭 I'm currently building full-stack apps with Next.js, Node.js & PostgreSQL.
 ### 🌱 I'm currently learning advanced PostgreSQL & Prisma ORM.
 ### 👯 I'm looking to collaborate on open-source & full-stack MERN/PERN projects.
-### 🎯 I'm currently seeking an entry-level Software Engineer / Full-Stack Developer role.
+### 🎯 I'm currently seeking an entry-level Full-Stack Developer role.
 ### 💬 Ask me about React, Node.js, Express.js & REST API design.
 ### 📫 Reach me at rafibhuiyan1234@gmail.com or LinkedIn.
 
